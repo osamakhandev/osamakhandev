@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 📱 Specialized in **Full Stack Development, AI Automation (MERN, MEVN, LAMP, TALL stack + Clean Architecture + Zapier, Make.com, N8N)**  
-- 🚀 7+ years building **Scalable, user-friendly websites and web apps(CRM/ERP/POS)**  
+- 🚀 8+ years building **Scalable, user-friendly websites and web apps(CRM/ERP/POS)**  
 - 💡 Passionate about **Performance optimization & clean code**  
 - ☁️ Experienced with **Firebase, AWS, and Azure integration**  
 - 🛠 Mentor & Tech Lead — guiding teams to build high-quality Web apps  
