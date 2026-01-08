@@ -70,5 +70,5 @@
 ### 📊 My Github Stats
 
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=osamakhandev&theme=dark&hide_current_streak=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=osamakhandev&theme=dark&hide_current_streak=true" alt="GitHub Streak" />
 </p>
