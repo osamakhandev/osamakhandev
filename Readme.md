@@ -70,11 +70,5 @@
 ### 📊 My Github Stats
 
 <p>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osamakhandev&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=osamakhandev&theme=dark&hide_current_streak=true" alt="GitHub Streak" /></a>
 </p>
-
----
-
-### 📈 Top Languages
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamakhandev&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
