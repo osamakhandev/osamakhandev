@@ -23,9 +23,9 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-khan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamakhan/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/osamakhan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamakhandev@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osama.khan.dev@outlook.com)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.live.com/l/invite/FAAIbCNpgYHV90XbgI?v=g1)
 
 
@@ -40,6 +40,9 @@
 ![dJango](https://img.shields.io/badge/-dJango-4285F4?style=flat-square&logo=django)
 ![React](https://img.shields.io/badge/-React-4285F4?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-4285F4?style=flat-square&logo=vue)
+![WordPress](https://img.shields.io/badge/-WP-4285F4?style=flat-square&logo=wordpress)
+![Shopify](https://img.shields.io/badge/-Shopify-4285F4?style=flat-square&logo=shopify)
+![Webflow](https://img.shields.io/badge/-Webflow-4285F4?style=flat-square&logo=webflow)
 
 #### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0095D5?style=flat-square&logo=typescript)
@@ -67,10 +70,7 @@
 ### 📊 My Github Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osamakhandev&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Osama Khan's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamakhan&theme=algolia" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osamakhandev&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
 </p>
 
 ---
