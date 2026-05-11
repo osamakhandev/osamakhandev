@@ -66,9 +66,3 @@
 ![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
 
 ---
-
-### 📊 My Github Stats
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=osamakhandev&theme=dark&hide_current_streak=true" alt="GitHub Streak" />
-</p>
